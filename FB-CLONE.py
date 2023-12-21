@@ -259,7 +259,7 @@ def moch_yayan():
                 elif memek == '0' or memek == '00':
                     aahh(
                         "\n\033[1;92m Thank you for using my tools.\n  Don't forget to fallow to My Facebook account.\n\n")
-                    os.system('xdg-open https://t.me/TERMUXMASTERTG')
+                    os.system('xdg-open https://www.facebook.com/profile.php?id=61554845068365&mibextid=kFxxJD')
                     exit()
                 elif memek == '7' or memek == '07':
                     print("\n\x1b[1;97m [\x1b[1;96m+\x1b[1;97m] \x1b[1;96mPlease Wait... ")
@@ -394,13 +394,13 @@ def moch_yayan():
                 exit("\n\n\033[00m  [\033[91m!\033[00m] no Connection")
 
     elif yayan == "2" or yayan == "02":
-        os.system("xdg-open https://t.me/TERMUXMASTERTG")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=61554845068365&mibextid=kFxxJD")
         yayanxd()
     elif yayan == "3" or yayan == "03":
-        os.system('xdg-open https://t.me/TERMUXMASTERTG')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=61554845068365&mibextid=kFxxJD')
         yayanxd()
     elif yayan == "4" or yayan == "04":
-        os.system('xdg-open https://github.com/akashblackhat')
+        os.system('xdg-open https://github.com/mastertgtool')
         yayanxd()
     elif yayan == "5" or yayan == "05":
         print("\n\n\x1b[1;97m      [ \x1b[1;92mPlease Wait While Updating The Tools \x1b[1;97m]\n")
@@ -409,7 +409,7 @@ def moch_yayan():
         yayanxd()
     elif yayan == "0" or yayan == "00":
         aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to fallow to Myfacebook account \n\n")
-        os.system('xdg-open https://www.facebook.com/profile.php?id=61554845068365&mibextid=kFxxJD')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=61554845068365&mibextid=kFxxJD)
         exit()
 
 
