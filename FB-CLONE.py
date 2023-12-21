@@ -33,7 +33,7 @@ def kontol():
         ︻デ═一 HACKER : MASTER TG
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : @Master_TG_K
-\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/mastertgtool/FB-CLONE-TOOL.git
+\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/mastertgtool
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 
@@ -49,7 +49,7 @@ def jembut():
               ︻デ═一 HACKER : MASTER TG
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : AKASH BLACK HAT
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/mastertgtool/FB-CLONE-TOOL.git
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/mastertgtool
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 
