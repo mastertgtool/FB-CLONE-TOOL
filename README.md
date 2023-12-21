@@ -6,5 +6,5 @@ pip install beautifulsoup4
 apt install git
 git clone https://github.com/mastertgtool/FB-CLONE-TOOL.git
 cd FB-CLONE-TOOL
-python FB-CLONE.py
+python3 FB-CLONE.py
 ```
