@@ -35,6 +35,7 @@ def kontol():
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : @Master_TG_K
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/mastertgtool
 
+
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 
@@ -51,6 +52,7 @@ def jembut():
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : AKASH BLACK HAT
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/mastertgtool
+
 
 \x1b[1;94m────────────────────────────────────────────────────""")
 
@@ -411,7 +413,7 @@ def moch_yayan():
         yayanxd()
     elif yayan == "0" or yayan == "00":
         aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to fallow to Myfacebook account \n\n")
-        os.system('xdg-open https://www.facebook.com/profile.php?id=61554845068365&mibextid=kFxxJD)
+        os.system('xdg-open https://www.facebook.com)
         exit()
 
 
